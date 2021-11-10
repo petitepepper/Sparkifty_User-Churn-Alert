@@ -1,4 +1,4 @@
-# Sparkifty_User-Churn-Alert
+# Sparkify_User-Churn-Alert
 
 
 
