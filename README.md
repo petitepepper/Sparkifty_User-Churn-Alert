@@ -26,28 +26,28 @@ The data is part of the user activity log and it includes the following :
 
 ```tex
 User Information
- |-- firstName: 	string	
- |-- lastName: 		string  	 
- |-- gender: 		string 		
- |-- location: 		string 	
- |-- userAgent: 	string 		device infomation
+ |-- firstName: 	   string	
+ |-- lastName: 	    string  	 
+ |-- gender: 		     string 		
+ |-- location:    		string 	
+ |-- userAgent: 	   string 		device infomation
  
 User Count Information
- |-- userId: 		string 
- |-- level: 		string 		paid/free version
- |-- registration: 	long		registration timestamp
+ |-- userId: 		     string 
+ |-- level: 		      string 		paid/free version
+ |-- registration: 	long		   registration timestamp
 
 User Activities
- |-- artist: 		string 		name of singer
- |-- song: 			string		name of song listened
- |-- auth: 			string		authentification status  
- |-- sessionId:		long 		
- |-- itemInSession: long 		number of items in the session
- |-- page: 			string 		page visited
- |-- ts: 			long		activity timestamp
- |-- status: 		long 		service request status(200/307/404)
- |-- method: 		string		POST or GET
- |-- length: 		double 		usage duration 
+ |-- artist: 		     string 		name of singer
+ |-- song: 			      string	  name of song listened
+ |-- auth: 			      string	 	authentification status  
+ |-- sessionId:	   	long 		
+ |-- itemInSession: long 		  number of items in the session
+ |-- page: 		      	string 		page visited
+ |-- ts: 		        	long		   activity timestamp
+ |-- status: 		     long 		  service request status(200/307/404)
+ |-- method: 		     string		 POST or GET
+ |-- length: 		     double 		usage duration 
 ```
 
 There are 286500 records in total, concerning 226 users.
