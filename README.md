@@ -47,7 +47,7 @@ User Activities
  |-- ts: activity timestamp
  |-- status: service request status(200/307/404)
  |-- method: POST or GET
- |-- length:	usage duration 
+ |-- length: usage duration 
 ```
 
 There are 286500 records in total, concerning 226 users.
