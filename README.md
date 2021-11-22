@@ -166,7 +166,7 @@ Note that all transformations for data scaling occur in each fold of the cross-v
 
 The results obtained for the two models on the test set are as follows:
 
-<img src="./img_src/result.jpg">
+<img src="./img_src/result_evaluation.png">
 
 Considering the small size of our sample, such a result is totally acceptable.
 
